@@ -1,5 +1,6 @@
 # BATTLESHIP
-한양대학교 게임 제작 동아리 OOPARTS 소속기간중 제작한 게임
+한양대학교 게임 제작 동아리 OOPARTS 소속기간중 제작한 게임  
+2017.06.25년 제작
 ## 링크
   [오파츠 동아리 링크]<https://cafe.naver.com/oopartian>  
   [BATTLESHIP 개제 링크]<https://cafe.naver.com/oopartian>
